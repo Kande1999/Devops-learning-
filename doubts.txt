@@ -4,6 +4,7 @@
 4. how to practice git and installation of git in my ec2 or local.
 5. install windows11(suggested by arun gprec) for practicing devops related tools.
 6. some doubts on git installation
+7. git branching strategy concept not understood.
 
 feedback on my preparation skills.
 -> 
