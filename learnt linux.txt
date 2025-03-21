@@ -1,0 +1,40 @@
+ls- list all files and directories
+pwd- present working directory
+cd - change directory
+cd.. to go back to the previous directory
+cd ../.. two steps back (to previous back directories)
+ls-l list all files with all details
+ls-a list all files including hidden files
+touch- create an empty file
+cat- displays content of the file
+tac- concatenate and displays file content in reverse
+vi/vim- used for text editor
+echo- to print anything
+mkdir- to create directory
+rmdir- to delete an empty directory
+rm - to remove a file
+rm -r to remove directory and all its files and contents
+cp- copy files and directories to another directory
+mv - move files from one to another along with renaming
+chown- change ownership of the file and group
+chmod- change permissions of the file
+head- to display first half of the content of the file
+tail- to display last half of the contents of the file
+man- man along with command displays all the info of a command
+whoami- who is the current user of the system
+sudo- execute command as another user(mostly root user)
+wc - to print no of lines,words and character
+awk- powerful text processing command
+sed- stream editor for filtering and transforming text
+grep- to search for a particular string in files
+iconfig- displays ip address of the user
+free-displays memory usage
+nproc- no of processing units
+df -h diskspace used by the file system
+top- displays linux tasks(includes- memory,diskspace and cpu's)
+ps- displays info the current running processes
+pgrep- to search for the processess based on pid's
+tree- displays the directory heriarchy in tree like structure
+locate- it helps to locate the file by filenames
+find- to find files in a directory hierachy
+
