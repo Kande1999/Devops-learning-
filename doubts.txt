@@ -3,6 +3,7 @@
 3. how to install jenkins on my ec2 instnace or any otherway to practice.
 4. how to practice git and installation of git in my ec2 or local.
 5. install windows11(suggested by arun gprec) for practicing devops related tools.
+6. some doubts on git installation
 
 feedback on my preparation skills.
 -> 
