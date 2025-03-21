@@ -1,0 +1,8 @@
+1. need to learn some linux commands that i did not understood and i missed to learn.
+2. ask sai anna to explain shell scripting in easy way and practice more on it.
+3. how to install jenkins on my ec2 instnace or any otherway to practice.
+4. how to practice git and installation of git in my ec2 or local.
+5. install windows11(suggested by arun gprec) for practicing devops related tools.
+
+feedback on my preparation skills.
+-> 
